@@ -6,5 +6,5 @@ This project is about the Visualization and characterization of marine animal tr
 
 ### python
 ### R
-### Traja 
-### Trajr
+### [Traja ](https://pypi.org/project/traja/)
+### Trajr 
